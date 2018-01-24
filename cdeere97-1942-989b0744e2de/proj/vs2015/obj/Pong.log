@@ -1,0 +1,25 @@
+﻿  xcopy "C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\GlosGP-pong-ct4019-1aa5c153d8db\Pong\scripts\..\Uog\lib\vs2015\x64\Debug\"*.pdb "C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\GlosGP-pong-ct4019-1aa5c153d8db\Pong\proj\vs2015\..\..\bin\x64\Debug\" /s /y /d /r 
+  0 File(s) copied
+  main.cpp
+c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(198): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(214): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(215): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(273): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(275): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(319): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(345): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(354): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(358): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(589): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(590): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(723): warning C4456: declaration of 'pX' hides previous local declaration
+  c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(694): note: see declaration of 'pX'
+c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(723): warning C4456: declaration of 'pY' hides previous local declaration
+  c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(694): note: see declaration of 'pY'
+c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(809): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(810): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\chris\onedrive\documents\visual studio 2015\projects\glosgp-pong-ct4019-1aa5c153d8db\pong\source\main.cpp(839): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pong.vcxproj -> C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\GlosGP-pong-ct4019-1aa5c153d8db\Pong\proj\vs2015\..\..\bin\x64\Debug\Pong.exe
+  Pong.vcxproj -> ..\..\bin\x64\Debug\Pong.pdb (Full PDB)
+  xcopy "C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\GlosGP-pong-ct4019-1aa5c153d8db\Pong\scripts\..\resources\"*.* "C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\GlosGP-pong-ct4019-1aa5c153d8db\Pong\proj\vs2015\..\..\bin\x64\Debug\" /s /y /d /r 
+  0 File(s) copied

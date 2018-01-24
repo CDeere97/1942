@@ -1,0 +1,25 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// File: 1942
+// Author: Chris Deere
+// Date Created: 20/11/16
+// Brief: The first assignment for CT4019 - Programming and Mathematics for Games in which we have to remake a classic arcade game, I chose 1942
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+#include "Position.h"
+
+void Position::Get(float& a_x, float& a_y)
+{
+	a_x = x;
+	a_y = y;
+}
+
+void Position::Set(float a_x, float a_y)
+{
+	x = a_x;
+	y = a_y;
+}
+
+Position::Position()
+{
+	x = 0.f;
+	y = 0.f;
+}

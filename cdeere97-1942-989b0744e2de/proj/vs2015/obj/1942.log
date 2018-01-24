@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (./obj\) contains files shared from another project (Pong.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  xcopy "C:\Users\Chris\Downloads\cdeere97-1942-989b0744e2de\cdeere97-1942-989b0744e2de\scripts\..\Uog\lib\vs2015\x64\Debug\"*.pdb "C:\Users\Chris\Downloads\cdeere97-1942-989b0744e2de\cdeere97-1942-989b0744e2de\proj\vs2015\..\..\bin\x64\Debug\" /s /y /d /r 
+  0 File(s) copied
+  1942.vcxproj -> C:\Users\Chris\Downloads\cdeere97-1942-989b0744e2de\cdeere97-1942-989b0744e2de\proj\vs2015\..\..\bin\x64\Debug\1942.exe
+  1942.vcxproj -> ..\..\bin\x64\Debug\1942.pdb (Full PDB)
+  xcopy "C:\Users\Chris\Downloads\cdeere97-1942-989b0744e2de\cdeere97-1942-989b0744e2de\scripts\..\resources\"*.* "C:\Users\Chris\Downloads\cdeere97-1942-989b0744e2de\cdeere97-1942-989b0744e2de\proj\vs2015\..\..\bin\x64\Debug\" /s /y /d /r 
+  0 File(s) copied
